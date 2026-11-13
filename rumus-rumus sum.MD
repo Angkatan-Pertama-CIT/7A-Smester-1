@@ -78,3 +78,12 @@ let diskon = total >= 30000;
 console.log(total); // 30000
 console.log(diskon); // true
 ```
+----------Variable parameterrrrrrrrrrrrrrrrrrr salmaaaaaaaaaaaaaaaan-----------
+let nama = "Salman";
+let umur = 13;
+function sapa(nama) { // nama adalah parameter
+  console.log("Halo, " + nama);
+}
+
+sapa("Salman"); // "Salman" adalah argumen
+------------------------------------------------------------------------------------------------------subway surfer sbs subway surfer sbs---------------------
