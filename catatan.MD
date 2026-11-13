@@ -11,4 +11,4 @@
 Daftar angka 1 apel 
 garis pemisah _ _ _
 Tautan [google]. (https://google.com)
-code 'print<>'
+code 'print<>' 

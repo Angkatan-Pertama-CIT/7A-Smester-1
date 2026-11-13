@@ -1,0 +1,32 @@
+apa itu variabel?
+variabel adalah nama untuk menyimpan data dalam program. nilai nya dapt di gunakan 
+tergantung deklarasi analogi nya aku ataupun kamu mempunyai beberapa kotak penyimpanan setiap kotak 
+di beri nama sesuatu.
+|  Nama kotak  |    isi kotak    |
+|- umur        |       10        | int umur = 10
+|- nilai       |       10        | int nilai = 10 
+| umur         |        5        | int kelas = 10
+
+jadi variabel adalah nama untuk tempat
+menyimpan data dalam program 
+int itu adalah tipe data 
+umur adalah nama variabel 
+10 adalah nilai yang di simpan 
+int umur = 10 c ++
+_ umur = 10 python 
+
+parameter adalah variabel yang di tulis pada 
+bagaian penerima input suatu fungsi 
+parameter membantu fungsi menerima data saat di panggil 
+fungsi merupakan kumplan perintah yang di beri nama dan dapat di panggil 
+untuk mengerjakan tugas tertentu
+
+analoginya bayangkan untuk mesin buat jus 
+contoh: 
+1. meysha memasukan buah ke blender
+2. mesin menggiling buah tersebut
+3. mesin menghasilkan jus 
+
+dalam progra fungsi juga dapat menerima data memprosesnya 
+lalu melakukan sesuatu pekerjaan
+variabel= buah, blender, gelas
