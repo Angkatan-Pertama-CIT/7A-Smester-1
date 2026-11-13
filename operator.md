@@ -9,3 +9,15 @@ A.operator aritmatika
 7.nama lengkap:pangkat/eksponen    simbol:**     contoh:2**3     hasil:8
 
 
+B.operator perbandingan
+
+1.nama lengkap:sama dengan     simbol:= =      arti:nilai kiri sama dengan kanan
+2.nama lengkap:tidak dengan     simbol:! =      arti:nilai tidak sama
+3.nama lengkap:lebih besar dari     simbol:>      arti:kiri lebih besar dari kanan
+4.nama lengkap:lebih kecil     simbol:<      arti:kiri lebih kecil dari kanan
+5.nama lengkap:lebih besar atau sama dengan     simbol:> =      arti:lebih besar atau sama
+6.nama lengkap:lebih kecil atau sama dengan     simbol:< =      arti:lebih kecil atau sama
+
+
+C.operator assignment
+
