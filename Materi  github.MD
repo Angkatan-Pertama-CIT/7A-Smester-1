@@ -2,7 +2,7 @@
 repocitory merupakan folder proyek yg menyimpanfile riwayat dan aturan 
 commit merupakan [esan perubaan yg diberi lebel agar mudah dilacak 
 git branch untuk meliihat brannch aktif dan branch yg ada 
-clone url  ambil repository komputer 
+git clone url  ambil repository komputer 
 gitstatus cek file yg berubah 
 gitchckout  [nama branch} buat dan piindah  k branch baru
 git add siapkan sebagai commit 

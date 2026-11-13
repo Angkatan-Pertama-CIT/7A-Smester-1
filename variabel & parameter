@@ -1,0 +1,22 @@
+-VARIABEL = Nama untuk menyimpan data dalam program.
+Nilainya dapat digunakan tergantung deklarasinya.
+-Analoginya,aku/kamu mempunyai beberapa kotak penyimpanan.
+Setiap kotak diberi nama dan berisi sesuatu.
+|nama kotak|isi kotak|
+|umur      | 10       |
+|nilai     | 10       |
+kelas      | 5        |
+-Jadi,Variabel=nama untuk tempat menyimpan data untuk program 
+int umur 10
+int=type data 
+umur= nama Variabel10= nilai yang disimpan  
+-PARAMETER = Variabel yang ditulis pada bagian penerima input suatu fungsi
+parameter membantu fungsi menerima data saat dipanggil.
+-Fungsi=Kumpulan perintah yang diberi nama dan dapat dipanggil untuk mengerjakan tugas/proses tertentu
+-Analogi=Mesin pembuat jus
+-memasukan buah
+-mesin menggiling buah
+-mesin menghasilkan jus
+- buah=variabel,blender=variabel,gelas=variabel
+-Dalam program, Fungsijuga dapat menerima data memprosesnya,lalu melakukan suatu pekerjaan 
+Harus tau dulu variabel dan metodenya 
