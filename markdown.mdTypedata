@@ -1,0 +1,39 @@
+typedata= nilai: peggunaan
+string= "khuruf123" cerita/deskripsi
+char= '?' granding
+interger= 123 nilai
+float= 14,5`f mengukur suhu
+double= 14,5 kiloan
+boolean= true/false bermusyawarah
+list=
+object= {nama:"ilham"} menyimpan data&sifat objek
+array= [1,2,3] menyimpan banyak data
+date/time= 02/10/2026 tanggal/waktu
+null= null mentandakan tidak ada nilai 
+contoh:
+"kelinci bercerita"
+'A'
+50
+45,30
+14,5'f
+operator contoh kegunaan
++ 5+2 penjumlahan
+- 5-2 pengurangan 
+x 5x2 perkalian 
+/ 5/2 pembagian
+% 5%2 sisa pembagian
+== 5==5 sama dengan 
+!= 5!=3 tidak sama
+> 5>3 lebih besar 
+< 3<5 lebih kecil
+>= 5>=5 lebih besar/ sama
+<= 3<=5 lebih kecil/sama
+&& A&&B and/dan
+'  '
+! !A not(kebalikan)
+diskon=harga awal x persentase diskon
+harga setelah diskon= harga awal-diskon
+contoh:
+harga Rp 100.000,diskon20%
+-diskon= 100.000x20%=20.000
+-harga akhir=100.000-20.000=Rp.80.000
