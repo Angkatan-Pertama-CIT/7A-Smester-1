@@ -22,3 +22,5 @@ git push -u origin <nama branch> :       push branch ke github
 
 git pull origin main :       ambil perubahan terbaru dari main
 C:\Users\WIN10\Documents\fathan\materi github.MD
+
+git fetch origin: untuk mengambil seluruh branch yang ada pada repository

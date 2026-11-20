@@ -5,7 +5,6 @@ variabel adalh nama untuk tempat menyimpan data didalam program.nilainya dapat d
 |umur        |10         | <int umur:10
 |nilai       |10         | <int nilai:10
 |kelas       |5          | <int kelas:5
-|------------|-----------|
 jadi variabel adalah nama untuk tempat menyimpan data dalam program
 
 parameter
