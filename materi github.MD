@@ -12,4 +12,4 @@ syntax:
 7.push -u origin <nama branch>    push branch baru ke github
 8.git pull origin main            ambil perubahn terbaru dari main
 -----------------CATATAN SALMAN CATATAN SALMAN CACATAN SALMAN ----------------
-C:\Users\WIN10\Documents\salman\materi github.MD 
+9.git fetch untuk mengambil seluruh branch yang ada di repository
