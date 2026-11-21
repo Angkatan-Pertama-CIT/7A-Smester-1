@@ -10,3 +10,5 @@ git add . siapkan semua perubahan
 git commit -m "pesan" simpan perubahan sebagaicommit
 git push -u origin <nama branch> push branch baru ke Github
 git pull origin main ambil perubahan terbaru dari main
+git fetch origin merupakan sintaks untuk melihat branch yang ada pada remote \
+git remote set-url origin sintaks untuk merubah remote yang telah ada
